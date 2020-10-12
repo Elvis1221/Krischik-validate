@@ -2,11 +2,11 @@
   "name": "validator",
   "version": "1.0.0",
   "description": "Basic validator implementation demo",
-  "main": "index.js",
+  "main": "result.js",
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node index.js"
+    "start": "node result.js"
   },
   "repository": {
     "type": "git",
