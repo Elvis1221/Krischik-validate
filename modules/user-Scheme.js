@@ -58,5 +58,3 @@ const userScheme = {
     ],
 };
 
-user.firstName = "";
-user.age = 40;
